@@ -1,6 +1,6 @@
 #include <iostream>
-#include <bits/stdc++.h>
-using namespace std;
+// #include <bits/stdc++.h>
+// using namespace std;
 
 class rect
 {
@@ -66,3 +66,5 @@ int main()
         printf("\nRectangles aren't overlapping");
     return 0;
 }
+
+
